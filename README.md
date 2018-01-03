@@ -1,4 +1,17 @@
 # Projects_myOS
+This is huuuuuuuuuuge linux like system i made, about 10k lines of code spending a whole month. Almost everyday coding.
+Cant believe that i am still alive after that semester. Sleep killer. Our university apply SVM to control the code so 
+i am not able to track back the history in github now. What is here is the final version of the project.
+The project clone most of features from linux:
+system call 
+terminal 
+paging 
+vitual memory 
+interrupt 
+video memory 
+linux file system
+
+-------------------------------------------------------------------------------------
 这是个巨大无比，完全搞不懂，靠神仙开光莫名其妙写出来的计算系系统，拥有基本的linux功能：
 system call 系统调用
 terminal 终端
@@ -8,9 +21,5 @@ interrupt 终端
 video memory 显卡内存
 linux file system linux文件系统
 
-这个是我们学校最恶性的课的final project，用了俩月，4个人，总代码量大概是1到2万，写到后来复杂度太高，就有了各种debug和编程方法，比如
+这个是我们学校最恶性的课的final project，用了俩月，4个人，总代码量大概是1到2万，写到后来复杂度太高，就有了各种debug和编程方法
 
-随机删除部分代码看是否崩溃
-随机增加部分参数看是否不崩溃
-如果有bug就返回上一个版本重新写，知道写出来为止
-如果隔壁同学代码可以用我就借鉴一下
