@@ -1,5 +1,5 @@
 # Projects_myOS
-This is huuuuuuuuuuge linux like system i made, about 10k lines of code spending two whole month. Almost everyday coding.
+This is huuuuuuuuuuge linux like system i made, about 5k lines of code spending two whole month. Almost everyday coding.
 Cant believe that i am still alive after that semester. Sleep killer. Our university apply SVM to control the code so 
 i am not able to track back the history in github now. What is here is the final version of the project.
 The project clone most of features from linux:
