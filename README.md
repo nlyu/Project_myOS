@@ -1,5 +1,5 @@
 # Projects_myOS
-This is huuuuuuuuuuge linux like system i made, about 10k lines of code spending a whole month. Almost everyday coding.
+This is huuuuuuuuuuge linux like system i made, about 10k lines of code spending two whole month. Almost everyday coding.
 Cant believe that i am still alive after that semester. Sleep killer. Our university apply SVM to control the code so 
 i am not able to track back the history in github now. What is here is the final version of the project.
 The project clone most of features from linux:
@@ -21,5 +21,5 @@ interrupt 终端
 video memory 显卡内存
 linux file system linux文件系统
 
-这个是我们学校最恶性的课的final project，用了俩月，4个人，总代码量大概是1到2万，写到后来复杂度太高，就有了各种debug和编程方法
+这个是我们学校最恶性的课的final project，用了俩月，4个人，我写了85%的代码，队友滑水，总代码量大概是1到2万，写到后来复杂度太高，就有了各种debug和编程方法
 
