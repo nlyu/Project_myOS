@@ -21,5 +21,5 @@ interrupt 终端
 video memory 显卡内存
 linux file system linux文件系统
 
-这个是我们学校最恶性的课的final project，用了俩月，4个人，我写了85%的代码，队友滑水，总代码量大概是1到2万，写到后来复杂度太高，就有了各种debug和编程方法
+这个是我们学校最恶性的课的final project，用了俩月，4个人，总代码量大概是1到2万，写到后来复杂度太高，就有了各种玄学debug和编程方法，比如两眼一看法，删除debug法，瞎几把comment法
 
